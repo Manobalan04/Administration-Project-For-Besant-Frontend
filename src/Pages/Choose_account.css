@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu&display=swap");
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+#ca_bg{
+    background-color: white;
+    height: 100vh;
+    width: 100vw;
+    position: fixed;
+}
+
+#ca_logo{
+    /* background-color: black; */
+    display: flex;
+    margin-top: 5vh;
+    margin-left: 3vw;
+}
+
+#ca_img1{
+    height: 13vh;
+    width: 15vh;
+    border-radius: 7px;
+    box-shadow: 4px 7px 5px rgba(0,0,0,.5)
+}
+
+#ca_p1{
+    padding-top: 1.6vh;
+}
+#ca_p2{
+    font-size: 35px;
+    padding-left: 8px;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+} 
+#ca_p3{
+    font-size: 35px;
+    padding-left: 8px;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#ca_card{
+    background-color: white;
+    height: 58vh;
+    width: 60vw;
+    margin-top: 5vh;
+    margin-left: 20vw;
+    border-radius: 45px;
+    box-shadow: 0px 0px 10px 5px silver;
+}
+
+#ca_p4{
+    font-size: 25px;
+    padding-top: 3vh;
+    padding-left: 20vw;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#ca_card0{
+    /* background-color: aqua; */
+    margin-top: 5vh;
+    height: 30vh;
+    width: 60vw;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.ca_card1{
+    background-color: white;
+    height: 30vh;
+    width: 13vw;
+    border-radius: 25px;
+    box-shadow: 0px 0px 10px 5px silver;
+}
+
+.ca_img2{
+    height: 22vh;
+    width: 12vw;
+    margin-top: 1vh;
+    margin-left: .5vw;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.ca_p5{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    /* padding-top: 2vh; */
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#ca_btn1{
+    height: 6vh;
+    width: 20vw;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 4vh;
+    margin-left: 20vw;
+    font-weight: bold;
+    box-shadow: 0 3px 2px rgba(0,0,0,1);
+}
